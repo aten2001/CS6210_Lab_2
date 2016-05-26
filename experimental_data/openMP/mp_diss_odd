@@ -1,0 +1,19 @@
+Thread number: 3 ---------------------
+Thread #2 spent time: 0.0000015371
+Thread #0 spent time: 0.0000015371
+Thread #1 spent time: 0.0000015371
+Thread number: 5 ---------------------
+Thread #1 spent time: 0.0000053260
+Thread #0 spent time: 0.0000053260
+Thread #2 spent time: 0.0000053260
+Thread #3 spent time: 0.0000053260
+Thread #4 spent time: 0.0000053260
+Thread number: 7 ---------------------
+Thread #0 spent time: 0.0000085976
+Thread #2 spent time: 0.0000085976
+Thread #4 spent time: 0.0000085976
+Thread #6 spent time: 0.0000085976
+Thread #5 spent time: 0.0000085976
+Thread #3 spent time: 0.0000085976
+Thread #1 spent time: 0.0000085976
+dissemination_barrier

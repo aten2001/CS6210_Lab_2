@@ -1,0 +1,42 @@
+Adding user wyeh7 to group authjobs
+Rank: 0, Processor: jinx16, len: 6
+Rank: 1, Processor: jinx16, len: 6
+Rank: 4, Processor: jinx16, len: 6
+Rank: 5, Processor: jinx16, len: 6
+Rank: 6, Processor: jinx16, len: 6
+Rank: 7, Processor: jinx16, len: 6
+Rank: 8, Processor: jinx16, len: 6
+Rank: 9, Processor: jinx16, len: 6
+Rank: 2, Processor: jinx16, len: 6
+Rank: 3, Processor: jinx16, len: 6
+Rank: 10, Processor: jinx17, len: 6
+Rank: 11, Processor: jinx17, len: 6
+Rank: 12, Processor: jinx17, len: 6
+Rank: 13, Processor: jinx17, len: 6
+Rank: 14, Processor: jinx17, len: 6
+Rank: 15, Processor: jinx17, len: 6
+Rank: 16, Processor: jinx17, len: 6
+Rank: 17, Processor: jinx17, len: 6
+Rank: 18, Processor: jinx17, len: 6
+Rank: 19, Processor: jinx17, len: 6
+process  0 spent 0.0000111357
+process  9 spent 0.0000111357
+process  2 spent 0.0000111353
+process  1 spent 0.0000111355
+process  4 spent 0.0000111357
+process  5 spent 0.0000111355
+process  6 spent 0.0000111357
+process  7 spent 0.0000111357
+process  8 spent 0.0000111357
+process  3 spent 0.0000111351
+process 10 spent 0.0000111341
+process 11 spent 0.0000111338
+process 12 spent 0.0000111344
+process 13 spent 0.0000111344
+process 14 spent 0.0000111343
+process 15 spent 0.0000111344
+process 16 spent 0.0000111344
+process 17 spent 0.0000111337
+process 18 spent 0.0000111343
+process 19 spent 0.0000111342
+Removing user wyeh7 from group authjobs

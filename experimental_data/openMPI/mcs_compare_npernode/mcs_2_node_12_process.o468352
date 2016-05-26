@@ -1,0 +1,50 @@
+Adding user wyeh7 to group authjobs
+Rank: 1, Processor: jinx16, len: 6
+Rank: 2, Processor: jinx16, len: 6
+Rank: 3, Processor: jinx16, len: 6
+Rank: 4, Processor: jinx16, len: 6
+Rank: 6, Processor: jinx16, len: 6
+Rank: 7, Processor: jinx16, len: 6
+Rank: 9, Processor: jinx16, len: 6
+Rank: 10, Processor: jinx16, len: 6
+Rank: 11, Processor: jinx16, len: 6
+Rank: 5, Processor: jinx16, len: 6
+Rank: 8, Processor: jinx16, len: 6
+Rank: 12, Processor: jinx17, len: 6
+Rank: 15, Processor: jinx17, len: 6
+Rank: 17, Processor: jinx17, len: 6
+Rank: 18, Processor: jinx17, len: 6
+Rank: 21, Processor: jinx17, len: 6
+Rank: 23, Processor: jinx17, len: 6
+Rank: 13, Processor: jinx17, len: 6
+Rank: 14, Processor: jinx17, len: 6
+Rank: 16, Processor: jinx17, len: 6
+Rank: 19, Processor: jinx17, len: 6
+Rank: 22, Processor: jinx17, len: 6
+Rank: 20, Processor: jinx17, len: 6
+Rank: 0, Processor: jinx16, len: 6
+process  8 spent 0.0000111292
+process  1 spent 0.0000111300
+process  2 spent 0.0000111296
+process  3 spent 0.0000111298
+process 11 spent 0.0000111298
+process  4 spent 0.0000111301
+process  6 spent 0.0000111299
+process  5 spent 0.0000111292
+process  7 spent 0.0000111300
+process  9 spent 0.0000111296
+process 10 spent 0.0000111300
+process  0 spent 0.0000111250
+process 23 spent 0.0000111285
+process 13 spent 0.0000111283
+process 12 spent 0.0000111284
+process 14 spent 0.0000111283
+process 15 spent 0.0000111284
+process 17 spent 0.0000111285
+process 16 spent 0.0000111283
+process 22 spent 0.0000111282
+process 18 spent 0.0000111288
+process 19 spent 0.0000111282
+process 21 spent 0.0000111283
+process 20 spent 0.0000111277
+Removing user wyeh7 from group authjobs

@@ -1,0 +1,19 @@
+Thread number: 3 ---------------------
+Thread #2 spent time: 0.0000012533
+Thread #0 spent time: 0.0000012534
+Thread #1 spent time: 0.0000012533
+Thread number: 5 ---------------------
+Thread #4 spent time: 0.0000022918
+Thread #2 spent time: 0.0000022918
+Thread #3 spent time: 0.0000022918
+Thread #0 spent time: 0.0000022918
+Thread #1 spent time: 0.0000022918
+Thread number: 7 ---------------------
+Thread #4 spent time: 0.0000034036
+Thread #2 spent time: 0.0000034035
+Thread #1 spent time: 0.0000034036
+Thread #3 spent time: 0.0000034036
+Thread #0 spent time: 0.0000034036
+Thread #6 spent time: 0.0000034036
+Thread #5 spent time: 0.0000034036
+centralized_barrier_mp

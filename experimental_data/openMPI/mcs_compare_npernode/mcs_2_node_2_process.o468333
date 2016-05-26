@@ -1,0 +1,10 @@
+Adding user wyeh7 to group authjobs
+Rank: 0, Processor: jinx16, len: 6
+Rank: 1, Processor: jinx16, len: 6
+Rank: 2, Processor: jinx17, len: 6
+Rank: 3, Processor: jinx17, len: 6
+process  0 spent 0.0000049442
+process  1 spent 0.0000049442
+process  2 spent 0.0000049442
+process  3 spent 0.0000049438
+Removing user wyeh7 from group authjobs
